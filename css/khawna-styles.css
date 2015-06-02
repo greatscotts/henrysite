@@ -190,6 +190,30 @@ padding-top:9px;
   background: url(../images/bg2.jpg) fixed;
 }
 
+#topics {
+  color: #ffffff;
+  height:250px;
+  width:auto;
+  background-color: #e0e4cc;
+  background: url(../images/bg22.jpg) fixed;
+}
+
+#speaker {
+  color: #ffffff;
+  height:250px;
+  width:auto;
+  background-color: #e0e4cc;
+  background: url(../images/last.jpg) fixed;
+}
+
+#out {
+  color: #ffffff;
+  height:250px;
+  width:auto;
+  background-color: #e0e4cc;
+  background: url(../images/bg45.jpg) fixed;
+}
+
 #home2 {
   color: #ffffff;
   height: 100%;
